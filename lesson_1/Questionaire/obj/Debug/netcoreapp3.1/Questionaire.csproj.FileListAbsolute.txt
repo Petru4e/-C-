@@ -1,0 +1,13 @@
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\bin\Debug\netcoreapp3.1\Questionaire.exe
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\bin\Debug\netcoreapp3.1\Questionaire.deps.json
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\bin\Debug\netcoreapp3.1\Questionaire.runtimeconfig.json
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\bin\Debug\netcoreapp3.1\Questionaire.runtimeconfig.dev.json
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\bin\Debug\netcoreapp3.1\Questionaire.dll
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\bin\Debug\netcoreapp3.1\Questionaire.pdb
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\obj\Debug\netcoreapp3.1\Questionaire.csprojAssemblyReference.cache
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\obj\Debug\netcoreapp3.1\Questionaire.AssemblyInfoInputs.cache
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\obj\Debug\netcoreapp3.1\Questionaire.AssemblyInfo.cs
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\obj\Debug\netcoreapp3.1\Questionaire.csproj.CoreCompileInputs.cache
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\obj\Debug\netcoreapp3.1\Questionaire.dll
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\obj\Debug\netcoreapp3.1\Questionaire.pdb
+C:\Users\Юленька\source\repos\lesson_1\Questionaire\obj\Debug\netcoreapp3.1\Questionaire.genruntimeconfig.cache

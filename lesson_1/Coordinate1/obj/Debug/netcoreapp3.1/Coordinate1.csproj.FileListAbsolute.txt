@@ -1,0 +1,12 @@
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\bin\Debug\netcoreapp3.1\Coordinate1.exe
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\bin\Debug\netcoreapp3.1\Coordinate1.deps.json
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\bin\Debug\netcoreapp3.1\Coordinate1.runtimeconfig.json
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\bin\Debug\netcoreapp3.1\Coordinate1.runtimeconfig.dev.json
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\bin\Debug\netcoreapp3.1\Coordinate1.dll
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\bin\Debug\netcoreapp3.1\Coordinate1.pdb
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\obj\Debug\netcoreapp3.1\Coordinate1.AssemblyInfoInputs.cache
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\obj\Debug\netcoreapp3.1\Coordinate1.AssemblyInfo.cs
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\obj\Debug\netcoreapp3.1\Coordinate1.csproj.CoreCompileInputs.cache
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\obj\Debug\netcoreapp3.1\Coordinate1.dll
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\obj\Debug\netcoreapp3.1\Coordinate1.pdb
+C:\Users\Юленька\source\repos\lesson_1\Coordinate1\obj\Debug\netcoreapp3.1\Coordinate1.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+C:\Users\Юленька\source\repos\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.AssemblyInfoInputs.cache
+C:\Users\Юленька\source\repos\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.AssemblyInfo.cs
+C:\Users\Юленька\source\repos\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.csproj.CoreCompileInputs.cache
+C:\Users\Юленька\source\repos\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.exe
+C:\Users\Юленька\source\repos\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.deps.json
+C:\Users\Юленька\source\repos\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.runtimeconfig.json
+C:\Users\Юленька\source\repos\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.runtimeconfig.dev.json
+C:\Users\Юленька\source\repos\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.dll
+C:\Users\Юленька\source\repos\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.pdb
+C:\Users\Юленька\source\repos\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.dll
+C:\Users\Юленька\source\repos\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.pdb
+C:\Users\Юленька\source\repos\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.genruntimeconfig.cache
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.exe
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.deps.json
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.runtimeconfig.json
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.runtimeconfig.dev.json
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.dll
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\bin\Debug\netcoreapp3.1\Profile1.pdb
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.csprojAssemblyReference.cache
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.AssemblyInfoInputs.cache
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.AssemblyInfo.cs
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.csproj.CoreCompileInputs.cache
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.dll
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.pdb
+D:\УчЕба\c#\основы С#\lesson_1\Profile1\obj\Debug\netcoreapp3.1\Profile1.genruntimeconfig.cache

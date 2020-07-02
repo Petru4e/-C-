@@ -1,0 +1,13 @@
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\bin\Debug\netcoreapp3.1\Body_mass_index.exe
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\bin\Debug\netcoreapp3.1\Body_mass_index.deps.json
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\bin\Debug\netcoreapp3.1\Body_mass_index.runtimeconfig.json
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\bin\Debug\netcoreapp3.1\Body_mass_index.runtimeconfig.dev.json
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\bin\Debug\netcoreapp3.1\Body_mass_index.dll
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\bin\Debug\netcoreapp3.1\Body_mass_index.pdb
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\obj\Debug\netcoreapp3.1\Body_mass_index.csprojAssemblyReference.cache
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\obj\Debug\netcoreapp3.1\Body_mass_index.AssemblyInfoInputs.cache
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\obj\Debug\netcoreapp3.1\Body_mass_index.AssemblyInfo.cs
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\obj\Debug\netcoreapp3.1\Body_mass_index.csproj.CoreCompileInputs.cache
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\obj\Debug\netcoreapp3.1\Body_mass_index.dll
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\obj\Debug\netcoreapp3.1\Body_mass_index.pdb
+C:\Users\Юленька\source\repos\lesson_1\Body_mass_index\obj\Debug\netcoreapp3.1\Body_mass_index.genruntimeconfig.cache
